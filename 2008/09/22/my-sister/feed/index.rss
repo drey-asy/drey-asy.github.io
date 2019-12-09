@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: My Sister</title>
+	<atom:link href="http://www.andremonserrat.com/2008/09/22/my-sister/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2008/09/22/my-sister/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: jenny</title>
+		<link>http://www.andremonserrat.com/2008/09/22/my-sister/#comment-474</link>
+		<dc:creator><![CDATA[jenny]]></dc:creator>
+		<pubDate>Sun, 30 Nov 2008 23:25:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=858#comment-474</guid>
+		<description><![CDATA[i always picture vanessa as the vibrant high school girl form back in the 80&#039;s, even though i realize that is a long time ago. please keep me posted.]]></description>
+		<content:encoded><![CDATA[<p>i always picture vanessa as the vibrant high school girl form back in the 80&#8217;s, even though i realize that is a long time ago. please keep me posted.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

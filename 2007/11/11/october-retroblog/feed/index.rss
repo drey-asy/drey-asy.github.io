@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: October Retroblog</title>
+	<atom:link href="http://www.andremonserrat.com/2007/11/11/october-retroblog/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2007/11/11/october-retroblog/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2007/11/11/october-retroblog/#comment-266</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2007 20:46:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/11/october-retroblog/#comment-266</guid>
+		<description><![CDATA[I&#039;m going to go ahead and lay claim to that term.
+
+Retroblog: To blog in memoir form, altering the time stamp of posts to coincide with the relative date of the memory.]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;m going to go ahead and lay claim to that term.</p>
+<p>Retroblog: To blog in memoir form, altering the time stamp of posts to coincide with the relative date of the memory.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ryan</title>
+		<link>http://www.andremonserrat.com/2007/11/11/october-retroblog/#comment-265</link>
+		<dc:creator><![CDATA[Ryan]]></dc:creator>
+		<pubDate>Tue, 13 Nov 2007 20:42:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/11/october-retroblog/#comment-265</guid>
+		<description><![CDATA[Incidentally, you were result #4 when I googled &quot;retroblog&quot;.  Perhaps you will start a meme.]]></description>
+		<content:encoded><![CDATA[<p>Incidentally, you were result #4 when I googled &#8220;retroblog&#8221;.  Perhaps you will start a meme.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

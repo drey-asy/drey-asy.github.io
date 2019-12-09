@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Too Many Socks</title>
+	<atom:link href="http://www.andremonserrat.com/2009/04/01/too-many-socks/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2009/04/01/too-many-socks/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Dan</title>
+		<link>http://www.andremonserrat.com/2009/04/01/too-many-socks/#comment-526</link>
+		<dc:creator><![CDATA[Dan]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2009 21:39:43 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=1709#comment-526</guid>
+		<description><![CDATA[Whaa?!? Next thing you&#039;re going to tell me is that you&#039;re tossing out your Encyclopedia Brittanica too!]]></description>
+		<content:encoded><![CDATA[<p>Whaa?!? Next thing you&#8217;re going to tell me is that you&#8217;re tossing out your Encyclopedia Brittanica too!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Anonymous</title>
+		<link>http://www.andremonserrat.com/2009/04/01/too-many-socks/#comment-525</link>
+		<dc:creator><![CDATA[Anonymous]]></dc:creator>
+		<pubDate>Wed, 01 Apr 2009 21:05:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=1709#comment-525</guid>
+		<description><![CDATA[You&#039;re absolutely right. I&#039;m netflixing, but haven&#039;t been able to bring myself to part with non-rare dvds...yet.]]></description>
+		<content:encoded><![CDATA[<p>You&#8217;re absolutely right. I&#8217;m netflixing, but haven&#8217;t been able to bring myself to part with non-rare dvds&#8230;yet.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

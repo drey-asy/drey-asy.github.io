@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>anime &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/anime/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Sweet Ride</title>
+		<link>http://www.andremonserrat.com/2008/04/11/sweet-ride/</link>
+		<comments>http://www.andremonserrat.com/2008/04/11/sweet-ride/#comments</comments>
+		<pubDate>Fri, 11 Apr 2008 23:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Anime]]></category>
+		<category><![CDATA[Geek]]></category>
+		<category><![CDATA[anime]]></category>
+		<category><![CDATA[car]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=659</guid>
+		<description><![CDATA[As promised, a photo of the new ride. I dub it the Swordfish II.]]></description>
+				<content:encoded><![CDATA[<p>As promised, a photo of the new ride. I dub it the <a href="http://img207.imageshack.us/img207/3522/cowboy536qx.jpg">Swordfish II</a>.</p>
+<p><a href="http://www.andremonserrat.com/files/2008/04/ptcruiser.jpg"><img class="alignleft size-full wp-image-658" src="http://www.andremonserrat.com/files/2008/04/ptcruiser.jpg" alt="" width="400" height="253" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/04/11/sweet-ride/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+	</channel>
+</rss>

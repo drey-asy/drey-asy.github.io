@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Calling All Angels</title>
+	<atom:link href="http://www.andremonserrat.com/2006/11/03/calling-all-angels-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2006/11/03/calling-all-angels-2/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: monica</title>
+		<link>http://www.andremonserrat.com/2006/11/03/calling-all-angels-2/#comment-160</link>
+		<dc:creator><![CDATA[monica]]></dc:creator>
+		<pubDate>Tue, 07 Nov 2006 03:08:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2006/11/03/calling-all-angels-2/#comment-160</guid>
+		<description><![CDATA[One might wonder if there are more like this coming?  One might like that:)]]></description>
+		<content:encoded><![CDATA[<p>One might wonder if there are more like this coming?  One might like that:)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jeff</title>
+		<link>http://www.andremonserrat.com/2006/11/03/calling-all-angels-2/#comment-161</link>
+		<dc:creator><![CDATA[Jeff]]></dc:creator>
+		<pubDate>Sat, 04 Nov 2006 01:35:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2006/11/03/calling-all-angels-2/#comment-161</guid>
+		<description><![CDATA[That&#039;s really cool...]]></description>
+		<content:encoded><![CDATA[<p>That&#8217;s really cool&#8230;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Design Patterns</title>
+	<atom:link href="http://www.andremonserrat.com/2007/02/05/patterns/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2007/02/05/patterns/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Mom</title>
+		<link>http://www.andremonserrat.com/2007/02/05/patterns/#comment-188</link>
+		<dc:creator><![CDATA[Mom]]></dc:creator>
+		<pubDate>Mon, 05 Feb 2007 15:31:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/02/05/patterns/#comment-188</guid>
+		<description><![CDATA[Aren&#039;t computer translators wonderful?
+
+I tell my students they are not to be used mindlessly.
+
+We did breakfast menus and ended up with one that was:
+
+Coffee
+Eggs
+&quot;Here&#039;s to a wonderful future.&quot;
+
+Mom]]></description>
+		<content:encoded><![CDATA[<p>Aren&#8217;t computer translators wonderful?</p>
+<p>I tell my students they are not to be used mindlessly.</p>
+<p>We did breakfast menus and ended up with one that was:</p>
+<p>Coffee<br />
+Eggs<br />
+&#8220;Here&#8217;s to a wonderful future.&#8221;</p>
+<p>Mom</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

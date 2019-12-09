@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Feelings</title>
+	<atom:link href="http://www.andremonserrat.com/2005/11/25/feelings/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2005/11/25/feelings/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: monica</title>
+		<link>http://www.andremonserrat.com/2005/11/25/feelings/#comment-90</link>
+		<dc:creator><![CDATA[monica]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2005 20:44:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2005/11/25/feelings/#comment-90</guid>
+		<description><![CDATA[I am happy to hear you have returned.  I hate the fact that when your heart falls asleep, just like a limb that has been under pressure too long, waking up is necessarily painful.  I know what you mean.  But I am hopeful for us all, nonetheless.  Supportive Hugs!!!]]></description>
+		<content:encoded><![CDATA[<p>I am happy to hear you have returned.  I hate the fact that when your heart falls asleep, just like a limb that has been under pressure too long, waking up is necessarily painful.  I know what you mean.  But I am hopeful for us all, nonetheless.  Supportive Hugs!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

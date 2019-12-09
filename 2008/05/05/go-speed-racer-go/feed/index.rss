@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Go, Speed Racer, Go!</title>
+	<atom:link href="http://www.andremonserrat.com/2008/05/05/go-speed-racer-go/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2008/05/05/go-speed-racer-go/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: jenny</title>
+		<link>http://www.andremonserrat.com/2008/05/05/go-speed-racer-go/#comment-392</link>
+		<dc:creator><![CDATA[jenny]]></dc:creator>
+		<pubDate>Fri, 09 May 2008 19:38:35 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=676#comment-392</guid>
+		<description><![CDATA[you had me at Christina Ricci]]></description>
+		<content:encoded><![CDATA[<p>you had me at Christina Ricci</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: ljedi</title>
+		<link>http://www.andremonserrat.com/2008/05/05/go-speed-racer-go/#comment-391</link>
+		<dc:creator><![CDATA[ljedi]]></dc:creator>
+		<pubDate>Tue, 06 May 2008 17:54:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=676#comment-391</guid>
+		<description><![CDATA[You had me at &quot;Dragonball Z fight sequences.&quot;]]></description>
+		<content:encoded><![CDATA[<p>You had me at &#8220;Dragonball Z fight sequences.&#8221;</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

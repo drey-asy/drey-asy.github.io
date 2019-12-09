@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: One Last Thing</title>
+	<atom:link href="http://www.andremonserrat.com/2011/10/10/one-last-thing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2011/10/10/one-last-thing/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2011/10/10/one-last-thing/#comment-771</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2011 21:30:42 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/?p=2915#comment-771</guid>
+		<description><![CDATA[Thank you for letting me know!]]></description>
+		<content:encoded><![CDATA[<p>Thank you for letting me know!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: David</title>
+		<link>http://www.andremonserrat.com/2011/10/10/one-last-thing/#comment-764</link>
+		<dc:creator><![CDATA[David]]></dc:creator>
+		<pubDate>Tue, 11 Oct 2011 11:00:24 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/?p=2915#comment-764</guid>
+		<description><![CDATA[And you also are a inspiration. Besides things spritual you have inspired/enabled me to be a better writer.]]></description>
+		<content:encoded><![CDATA[<p>And you also are a inspiration. Besides things spritual you have inspired/enabled me to be a better writer.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

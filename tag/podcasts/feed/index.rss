@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>podcasts &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/podcasts/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>This American Lab</title>
+		<link>http://www.andremonserrat.com/2010/02/03/this-american-lab/</link>
+		<comments>http://www.andremonserrat.com/2010/02/03/this-american-lab/#comments</comments>
+		<pubDate>Thu, 04 Feb 2010 04:06:40 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Television]]></category>
+		<category><![CDATA[podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2054</guid>
+		<description><![CDATA[I&#8217;ve been listening to Radio Lab and This American Life (available in podcast and radio flavors) and I&#8217;ve decided that they are the gold standard when measuring what a slice of life, short form documentary program ought to be. Beyond just superb sound design, the shows are edifying in a way that makes me feel [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been listening to Radio Lab and This American Life (available in podcast and radio flavors) and I&#8217;ve decided that they are the gold standard when measuring what a slice of life, short form documentary program ought to be. Beyond just superb sound design, the shows are edifying in a way that makes me feel better about the world in general. Also, if Ira Glass and Jad Abumrad interviewed each other, my mind would explode.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2010/02/03/this-american-lab/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+		</item>
+		<item>
+		<title>Retrogasmic 1.3 &#8211; My Primitive Ancestry</title>
+		<link>http://www.andremonserrat.com/2008/12/15/retrogasmic-13-my-primitive-ancestry/</link>
+		<pubDate>Mon, 15 Dec 2008 14:21:29 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[retrogasmic]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=897</guid>
+		<description><![CDATA[My latest article is up at Secure Immaturity. It is on early, pre-graphic games and their modern descendants. I&#8217;ve closed comments here to encourage responses at the Secure Immaturity site.]]></description>
+				<content:encoded><![CDATA[<p><a href="http://secureimmaturity.com/?p=585">My latest article is up at Secure Immaturity</a>. It is on early, pre-graphic games and their modern descendants.</p>
+<p>I&#8217;ve closed comments here to encourage responses at the Secure Immaturity site.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Retrogasmic 1.2 – Once Upon A Time There Was No World Wide Web</title>
+		<link>http://www.andremonserrat.com/2008/11/17/retrogasmic-12-once-upon-a-time-there-was-no-world-wide-web/</link>
+		<comments>http://www.andremonserrat.com/2008/11/17/retrogasmic-12-once-upon-a-time-there-was-no-world-wide-web/#comments</comments>
+		<pubDate>Mon, 17 Nov 2008 06:01:58 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[retrogasmic]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=863</guid>
+		<description><![CDATA[I&#8217;ve posted a new article for the Secure Immaturity podcast and website. This one is about life online pre-World Wide Web. Read it here.]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve posted a new article for the <a href="http://secureimmaturity.com">Secure Immaturity</a> podcast and website. This one is about life online pre-World Wide Web.</p>
+<p><a href="http://secureimmaturity.com/?p=512">Read it here.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/11/17/retrogasmic-12-once-upon-a-time-there-was-no-world-wide-web/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Retrogasmic 1.1 – Your Adventure Begins Here</title>
+		<link>http://www.andremonserrat.com/2008/10/20/retrogasmic-11-your-adventure-begins-here/</link>
+		<comments>http://www.andremonserrat.com/2008/10/20/retrogasmic-11-your-adventure-begins-here/#comments</comments>
+		<pubDate>Mon, 20 Oct 2008 18:59:44 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[Writing]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[retrogasmic]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=807</guid>
+		<description><![CDATA[My first column for the Secure Immaturity podcast and website is now online Read it here.]]></description>
+				<content:encoded><![CDATA[<p>My first column for the <a href="http://secureimmaturity.com">Secure Immaturity</a> podcast and website is now online</p>
+<p><a href="http://secureimmaturity.com/?p=400">Read it here.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/10/20/retrogasmic-11-your-adventure-begins-here/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+		</item>
+		<item>
+		<title>Judge John Hodgman</title>
+		<link>http://www.andremonserrat.com/2008/05/27/judge-john-hodgman/</link>
+		<comments>http://www.andremonserrat.com/2008/05/27/judge-john-hodgman/#comments</comments>
+		<pubDate>Tue, 27 May 2008 22:47:41 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=691</guid>
+		<description><![CDATA[The other night, Nick and I had the opportunity to be on one of our favorite podcasts, Jordan, Jesse GO! They have an occasional segment with John Hodgman (The Daily Show, &#8220;PC&#8221; in the Mac commercials, Neil Gaiman&#8217;s Coraline, etc.) where people present complaints and he issues a judgment. Nick has been goading me to [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The other night, Nick and I had the opportunity to be on one of our favorite podcasts, <a href="http://www.maximumfun.org/blog/labels/podcast.html">Jordan, Jesse GO!</a> They have an occasional segment with John Hodgman (The Daily Show, &#8220;PC&#8221; in the Mac commercials, Neil Gaiman&#8217;s Coraline, etc.) where people present complaints and he issues a judgment.</p>
+<p>Nick has been goading me to grow a gigantic beard and I have refused, so he called up the show and requested for Judge Hodgman to resolve it.</p>
+<p>Here is a link to the show. Our bit starts at around 21:30. The show is saturated with profanity, in case that bothers you, though our segment is pretty clean.</p>
+<p><a href="http://media.libsyn.com/media/thornmorris/jjgo080527_ep62.mp3">LINK</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/05/27/judge-john-hodgman/feed/</wfw:commentRss>
+		<slash:comments>3</slash:comments>
+<enclosure url="http://media.libsyn.com/media/thornmorris/jjgo080527_ep62.mp3" length="39964672" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>Joss on GeeksOn</title>
+		<link>http://www.andremonserrat.com/2008/01/26/joss-on-geekson/</link>
+		<comments>http://www.andremonserrat.com/2008/01/26/joss-on-geekson/#respond</comments>
+		<pubDate>Sat, 26 Jan 2008 06:06:55 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/26/joss-on-geekson/</guid>
+		<description><![CDATA[I have to give props to my homies at the GeeksOn podcast for scoring a guest appearance by Joss Whedon. Have a listen here. Then come check out their forums. You may even see me there. 😉]]></description>
+				<content:encoded><![CDATA[<p>I have to give props to my homies at the GeeksOn podcast for scoring a guest appearance by Joss Whedon.</p>
+<p>Have a listen <a href="http://www.geekson.com/audio/geeksonepisode088.mp3">here</a>.</p>
+<p>Then come <a href="http://www.geekson.com/forums/phpBB2">check out their forums</a>. You may even see me there. <img src="https://s.w.org/images/core/emoji/11/72x72/1f609.png" alt="😉" class="wp-smiley" style="height: 1em; max-height: 1em;" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/26/joss-on-geekson/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://www.geekson.com/audio/geeksonepisode088.mp3" length="43257423" type="audio/mpeg" />
+		</item>
+		<item>
+		<title>GeeksOn</title>
+		<link>http://www.andremonserrat.com/2007/09/28/geekson/</link>
+		<comments>http://www.andremonserrat.com/2007/09/28/geekson/#respond</comments>
+		<pubDate>Fri, 28 Sep 2007 07:12:10 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Geek]]></category>
+		<category><![CDATA[podcasts]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/09/28/geekson/</guid>
+		<description><![CDATA[Today is my one year anniversary of being on the GeeksOn forums, the one and only forum I participate in. Yay!]]></description>
+				<content:encoded><![CDATA[<p>Today is my one year anniversary of being on the <a href="http://www.geekson.com/forums/phpBB2/">GeeksOn forums</a>, the one and only forum I participate in.</p>
+<p>Yay!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/09/28/geekson/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

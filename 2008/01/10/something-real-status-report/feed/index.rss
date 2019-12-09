@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Something Real Status Report</title>
+	<atom:link href="http://www.andremonserrat.com/2008/01/10/something-real-status-report/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2008/01/10/something-real-status-report/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Echo</title>
+		<link>http://www.andremonserrat.com/2008/01/10/something-real-status-report/#comment-318</link>
+		<dc:creator><![CDATA[Echo]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2008 20:57:13 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/10/something-real-status-report/#comment-318</guid>
+		<description><![CDATA[This sounds tremendously exciting, and it&#039;s not a bad thing that it&#039;s pushing your boundaries.  I&#039;m eager to hear about it as it moves along.]]></description>
+		<content:encoded><![CDATA[<p>This sounds tremendously exciting, and it&#8217;s not a bad thing that it&#8217;s pushing your boundaries.  I&#8217;m eager to hear about it as it moves along.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Smarty</title>
+		<link>http://www.andremonserrat.com/2008/01/10/something-real-status-report/#comment-317</link>
+		<dc:creator><![CDATA[Smarty]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2008 03:28:08 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/10/something-real-status-report/#comment-317</guid>
+		<description><![CDATA[Sometimes the best way to get things done is to act like an ant carrying bread crumbs.  
+
+I like to make lists and then feel accomplished when I can check things off.  However, my lists usually include things like: finish reading manga, watch that stack of DVDs, or bake cookies.  (I&#039;m so accomplished!)]]></description>
+		<content:encoded><![CDATA[<p>Sometimes the best way to get things done is to act like an ant carrying bread crumbs.  </p>
+<p>I like to make lists and then feel accomplished when I can check things off.  However, my lists usually include things like: finish reading manga, watch that stack of DVDs, or bake cookies.  (I&#8217;m so accomplished!)</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>friends &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/friends/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Friend Spotlight</title>
+		<link>http://www.andremonserrat.com/2008/05/07/friend-spotlight/</link>
+		<comments>http://www.andremonserrat.com/2008/05/07/friend-spotlight/#respond</comments>
+		<pubDate>Wed, 07 May 2008 22:37:46 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Board Games]]></category>
+		<category><![CDATA[Video Games]]></category>
+		<category><![CDATA[board games]]></category>
+		<category><![CDATA[friends]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=678</guid>
+		<description><![CDATA[Allow me to direct your attention to some cool projects my friends have produced. Ryan&#8217;s company is behind the technology used in Yahoo! oneSearch with Voice. It lets you do searches on your phone by speaking instead of having to type everything. It will eventually be available for the iPhone. Dave was on the team [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Allow me to direct your attention to some cool projects my friends have produced.</p>
+<p>Ryan&#8217;s company is behind the technology used in <a href="http://mobile.yahoo.com/onesearch/voice;_ylt=AlJYDwPosUhXr_jka.nyDPbTtQcJ">Yahoo! oneSearch with Voice</a>. It lets you do searches on your phone by speaking instead of having to type everything. It will eventually be available for the iPhone.</p>
+<p>Dave was on the team that created Steven Spielberg&#8217;s <a href="http://www.gamespot.com/wii/puzzle/pqrs/index.html?tag=result;title;0">Boom Blox</a>, what looks like an insanely fun game for the Wii. It was <a href="http://www.penny-arcade.com/2008/5/5/">featured on Penny Arcade</a>, which, some might say, is the highest honor one can achieve in the video game world.</p>
+<p>In the cardboard realm, a <a href="http://www.alderac.com/">game publisher</a> finally came to their senses and snatched up Dan&#8217;s Monkey Lab, a ridiculously fun board game. It will premiere at Essen, but there is no word on a release date. Trust me, you&#8217;re going to want to play this.</p>
+<p>Speaking of board games, Marc&#8217;s <a href="http://www.gizmet.com/games/coalescence.html">Coalescence</a> is now available. It looks really sharp, is easy to learn and provides a lot of challenging fun.</p>
+<p>And, finally, I heard that fellow Landmark graduate Jonna will be appearing in Oliver Stone&#8217;s film &#8220;<a href="http://www.imdb.com/title/tt1175491/">W</a>&#8220;, filming now.</p>
+<p>Congratulations, everyone, on bringing the awesome!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/05/07/friend-spotlight/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

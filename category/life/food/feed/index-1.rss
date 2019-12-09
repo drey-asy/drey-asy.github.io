@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Food &#8211; DreamPunk Productions</title>
+	<atom:link href="http://www.dreampunk.com/category/life/food/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.dreampunk.com</link>
+	<description>Game and story-shaped designs</description>
+	<lastBuildDate>Thu, 09 Mar 2017 20:51:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>A busy kingdom</title>
+		<link>http://www.dreampunk.com/2006/02/02/a-busy-kingdom/</link>
+		<comments>http://www.dreampunk.com/2006/02/02/a-busy-kingdom/#respond</comments>
+		<pubDate>Thu, 02 Feb 2006 21:54:00 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[House of Whack]]></category>
+		<category><![CDATA[Life]]></category>
+
+		<guid isPermaLink="false">http://dreampunk.dreynet.com/2006/02/02/a-busy-kingdom/</guid>
+		<description><![CDATA[It seems like there&#8217;s a flurry of activity in every facet of my life. If I were ruler of some mystical kingdom just beyond the Scintillating Sea, I might take a survey of my domain. I would discover the palace architects busy with a strange House that kept changing appearance and dimensions. The money counters [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>It seems like there&#8217;s a flurry of activity in every facet of my life.  If I were ruler of some mystical kingdom just beyond the Scintillating Sea, I might take a survey of my domain.  I would discover the palace architects busy with a strange House that kept changing appearance and dimensions.  The money counters are wringing their hands, suggesting we tax the peasants more, raid several neighboring kingdoms for gold, or at least beseech those that tread in heavenly realms for a boon.  The royal chef is preparing strange foreign meals for the king&#8217;s whimsical diet.  The High Dreamers awake daily to record detailed accounts of their journeys through the sliding seafoam beaches of silver worlds.  New orders arrive regularly for the court artists, requests for portraits and windows that burn with cryptic sigils.  The ambassador entertains queens visiting from faraway realms while the jester dances with the cats.  The king stands in his empty bedchamber and stares out across the landscape, imagining a quiet cottage on a hill where none of the clocks work.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.dreampunk.com/2006/02/02/a-busy-kingdom/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

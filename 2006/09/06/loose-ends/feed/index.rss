@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Loose Ends</title>
+	<atom:link href="http://www.andremonserrat.com/2006/09/06/loose-ends/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2006/09/06/loose-ends/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Jeff</title>
+		<link>http://www.andremonserrat.com/2006/09/06/loose-ends/#comment-150</link>
+		<dc:creator><![CDATA[Jeff]]></dc:creator>
+		<pubDate>Sat, 09 Sep 2006 01:01:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2006/09/06/loose-ends/#comment-150</guid>
+		<description><![CDATA[Sorry to hear that the game ended... and that I was one of the guys who bailed on you.    My brief time with Frayed was fun and wildly imaginative with some genuinely scary moments.  A year and a half is about three lifetimes in the PBEM world -- definitely something to be proud of.]]></description>
+		<content:encoded><![CDATA[<p>Sorry to hear that the game ended&#8230; and that I was one of the guys who bailed on you.    My brief time with Frayed was fun and wildly imaginative with some genuinely scary moments.  A year and a half is about three lifetimes in the PBEM world &#8212; definitely something to be proud of.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

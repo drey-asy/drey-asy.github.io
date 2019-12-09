@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>t-shirts &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/t-shirts/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>New T-Shirt Designs</title>
+		<link>http://www.andremonserrat.com/2008/05/07/new-t-shirt-designs/</link>
+		<comments>http://www.andremonserrat.com/2008/05/07/new-t-shirt-designs/#respond</comments>
+		<pubDate>Wed, 07 May 2008 22:49:37 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Artwork]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[t-shirts]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=679</guid>
+		<description><![CDATA[I made two new t-shirts a few weeks ago. Click on the image for a larger version.]]></description>
+				<content:encoded><![CDATA[<p>I made two new t-shirts a few weeks ago. Click on the image for a larger version.</p>
+<p><a href="http://www.andremonserrat.com/files/2008/05/cooperate.jpg"><img class="alignleft size-medium wp-image-680" src="http://www.andremonserrat.com/files/2008/05/cooperate-177x300.jpg" alt="" width="177" height="300" /> </a><a href="http://www.andremonserrat.com/files/2008/05/team-linus.jpg"><img class="alignleft size-medium wp-image-681" src="http://www.andremonserrat.com/files/2008/05/team-linus-300x265.jpg" alt="" width="300" height="265" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/05/07/new-t-shirt-designs/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

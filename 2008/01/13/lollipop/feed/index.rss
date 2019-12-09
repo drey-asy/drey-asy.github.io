@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Lollipop</title>
+	<atom:link href="http://www.andremonserrat.com/2008/01/13/lollipop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2008/01/13/lollipop/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Mischa</title>
+		<link>http://www.andremonserrat.com/2008/01/13/lollipop/#comment-320</link>
+		<dc:creator><![CDATA[Mischa]]></dc:creator>
+		<pubDate>Mon, 14 Jan 2008 14:12:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/13/lollipop/#comment-320</guid>
+		<description><![CDATA[The second coming of Katamari Damacy, maybe.]]></description>
+		<content:encoded><![CDATA[<p>The second coming of Katamari Damacy, maybe.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Smarty</title>
+		<link>http://www.andremonserrat.com/2008/01/13/lollipop/#comment-319</link>
+		<dc:creator><![CDATA[Smarty]]></dc:creator>
+		<pubDate>Mon, 14 Jan 2008 00:17:16 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/13/lollipop/#comment-319</guid>
+		<description><![CDATA[I prefer Big Girl - the tribute to fag hags everywhere!!!]]></description>
+		<content:encoded><![CDATA[<p>I prefer Big Girl &#8211; the tribute to fag hags everywhere!!!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

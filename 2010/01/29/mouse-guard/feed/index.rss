@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Mouse Guard</title>
+	<atom:link href="http://www.andremonserrat.com/2010/01/29/mouse-guard/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2010/01/29/mouse-guard/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Jeff</title>
+		<link>http://www.andremonserrat.com/2010/01/29/mouse-guard/#comment-590</link>
+		<dc:creator><![CDATA[Jeff]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2010 23:31:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2040#comment-590</guid>
+		<description><![CDATA[I&#039;ve heard a lot of good stuff about Mouse Guard.  I&#039;ll definitely have to check it out.]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;ve heard a lot of good stuff about Mouse Guard.  I&#8217;ll definitely have to check it out.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Achievement Unlocked</title>
+	<atom:link href="http://www.andremonserrat.com/2010/02/18/achievement-unlocked/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2010/02/18/achievement-unlocked/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2010/02/18/achievement-unlocked/#comment-601</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Fri, 19 Feb 2010 13:33:55 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2092#comment-601</guid>
+		<description><![CDATA[:)]]></description>
+		<content:encoded><![CDATA[<p>🙂</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Monica</title>
+		<link>http://www.andremonserrat.com/2010/02/18/achievement-unlocked/#comment-600</link>
+		<dc:creator><![CDATA[Monica]]></dc:creator>
+		<pubDate>Fri, 19 Feb 2010 04:06:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2092#comment-600</guid>
+		<description><![CDATA[:)  And you are a damn fine man! In every meaning of that word...  :)]]></description>
+		<content:encoded><![CDATA[<p>🙂  And you are a damn fine man! In every meaning of that word&#8230;  🙂</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

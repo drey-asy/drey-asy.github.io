@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>comics &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/comics/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>What I&#8217;m Reading Lately</title>
+		<link>http://www.andremonserrat.com/2006/09/06/what-im-reading-lately/</link>
+		<comments>http://www.andremonserrat.com/2006/09/06/what-im-reading-lately/#respond</comments>
+		<pubDate>Thu, 07 Sep 2006 02:27:00 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Comics]]></category>
+		<category><![CDATA[comics]]></category>
+		<category><![CDATA[Geek]]></category>
+
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2006/09/06/what-im-reading-lately/</guid>
+		<description><![CDATA[Fell &#8211; Warren Ellis&#8217; atmospheric crime serial. Nextwave &#8211; More Ellis. Brilliant. Knights of the Dinner Table &#8211; Too funny! Eternals &#8211; I hate to say it, but Gaiman&#8217;s not blowing me away here. Tron: Ghost in the Machine &#8211; Just started this series. Looks good so far. The Talisman &#8211; Rereading this one. Haven&#8217;t [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Fell &#8211; Warren Ellis&#8217; atmospheric crime serial.<br />
+Nextwave &#8211; More Ellis. Brilliant.<br />
+Knights of the Dinner Table &#8211; Too funny!<br />
+Eternals &#8211; I hate to say it, but Gaiman&#8217;s not blowing me away here.<br />
+Tron: Ghost in the Machine &#8211; Just started this series. Looks good so far.<br />
+The Talisman &#8211; Rereading this one. Haven&#8217;t read King in years.<br />
+Wired &#8211; Beck is on the cover. How can it be anything but good?<br />
+Knucklebones &#8211; Behind on my reading. Just got the latest issue with an article on Faidutti!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2006/09/06/what-im-reading-lately/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

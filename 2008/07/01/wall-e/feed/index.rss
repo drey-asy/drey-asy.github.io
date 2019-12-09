@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: WALL-E</title>
+	<atom:link href="http://www.andremonserrat.com/2008/07/01/wall-e/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2008/07/01/wall-e/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: jenny</title>
+		<link>http://www.andremonserrat.com/2008/07/01/wall-e/#comment-424</link>
+		<dc:creator><![CDATA[jenny]]></dc:creator>
+		<pubDate>Fri, 04 Jul 2008 13:50:29 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=720#comment-424</guid>
+		<description><![CDATA[i want to see wall-e but ric was saying wall-e is just a throw-back to the robot johny5. guess i&#039;ll be watching it with melissa.]]></description>
+		<content:encoded><![CDATA[<p>i want to see wall-e but ric was saying wall-e is just a throw-back to the robot johny5. guess i&#8217;ll be watching it with melissa.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

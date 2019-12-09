@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>interactive fiction &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/interactive-fiction/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Retrogasmic 1.6 &#8211; All Good Things</title>
+		<link>http://www.andremonserrat.com/2009/03/16/retrogasmic-16-all-good-things/</link>
+		<comments>http://www.andremonserrat.com/2009/03/16/retrogasmic-16-all-good-things/#respond</comments>
+		<pubDate>Mon, 16 Mar 2009 05:01:14 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+		<category><![CDATA[interactive fiction]]></category>
+		<category><![CDATA[retrogasmic]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=1703</guid>
+		<description><![CDATA[My sixth and final column for Secure Immaturity is now up. This is more of a hands-on demonstration than an actual column, an evasive technique which has served me since grade school. Read it here.]]></description>
+				<content:encoded><![CDATA[<p>My sixth and final column for Secure Immaturity is now up. This is more of a hands-on demonstration than an actual column, an evasive technique which has served me since grade school.</p>
+<p><a href="http://secureimmaturity.com/?p=967">Read it here.</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2009/03/16/retrogasmic-16-all-good-things/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Writing &#8211; DreamPunk Productions</title>
+	<atom:link href="http://www.dreampunk.com/category/writing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.dreampunk.com</link>
+	<description>Game and story-shaped designs</description>
+	<lastBuildDate>Thu, 09 Mar 2017 20:51:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Origins of The Stork</title>
+		<link>http://www.dreampunk.com/2011/01/31/origins-of-the-stork/</link>
+		<comments>http://www.dreampunk.com/2011/01/31/origins-of-the-stork/#respond</comments>
+		<pubDate>Tue, 01 Feb 2011 01:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Movies]]></category>
+		<category><![CDATA[RPGs]]></category>
+		<category><![CDATA[The Stork]]></category>
+		<category><![CDATA[Writing]]></category>
+
+		<guid isPermaLink="false">http://dreampunk.dreynet.com/2011/01/31/origins-of-the-stork/</guid>
+		<description><![CDATA[When I went to see Pixar&#8217;s WALL-E, there was an animated short called Partly Cloudy before the film. It had to do with a stork who got stuck with delivering really challenging packages. It got me thinking of some shadowy agency which employed people called Storks to deliver metaphorical packages to people. Perhaps this guy [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>When I went to see Pixar&#8217;s WALL-E, there was an animated short called Partly Cloudy before the film. It had to do with a stork who got stuck with delivering really challenging packages. It got me thinking of some shadowy agency which employed people called Storks to deliver metaphorical packages to people. Perhaps this guy shows up on your doorstep with a lost memory from childhood.</p>
+<p>Then I thought maybe I could make a role playing game out of it. The players would play characters in this agency delivering packages as a way of working off a debt, kind of like the reapers in Dead Like Me.</p>
+<p>But then it occurred to me it might be more interesting if it were a live action game like Killer or Capture the Flag, where teams of people had to make sure a package got delivered to its destination.</p>
+<p>I&#8217;m not sure how it happened, but when I sat down to write down some notes for the rules to this potential game, I instead wrote the manual that became The Stork. It was one of those rare pieces of writing that I transcribe more than write. It just flowed out, almost fully formed. I made some tweaks to it, but the first draft ended up being really good as is.</p>
+<p>Some part of me wants to create these shared experiences, these abstract dreamlike ideas. I&#8217;ve found the best way to communicate them is to squeeze them into the shape of a story or a game. The structure is just a handle or a frame, a label so that other people can (hopefully) understand what I&#8217;m trying to tell them.</p>
+<p><a href="https://www.kickstarter.com/projects/1679934955/the-stork-deliver-the-package-change-your-life">Find out more about The Stork at Kickstarter</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.dreampunk.com/2011/01/31/origins-of-the-stork/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

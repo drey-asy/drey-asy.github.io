@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: The Library is Now Open</title>
+	<atom:link href="http://www.andremonserrat.com/2009/06/28/the-library-is-now-open/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2009/06/28/the-library-is-now-open/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2009/06/28/the-library-is-now-open/#comment-537</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 23:05:36 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=1902#comment-537</guid>
+		<description><![CDATA[Thanks for pointing that out, Jeff. It is fixed now.]]></description>
+		<content:encoded><![CDATA[<p>Thanks for pointing that out, Jeff. It is fixed now.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jeff</title>
+		<link>http://www.andremonserrat.com/2009/06/28/the-library-is-now-open/#comment-536</link>
+		<dc:creator><![CDATA[Jeff]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2009 22:44:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=1902#comment-536</guid>
+		<description><![CDATA[Cool... I&#039;ll have to check these out.  I remember reading a few of them, but most of them are unfamiliar to me.  
+
+I think I found a wrong link:  when I clicked on &quot;Poem Shaped Lies&quot; it brought up &quot;From the Ashes of Puppets&quot;.]]></description>
+		<content:encoded><![CDATA[<p>Cool&#8230; I&#8217;ll have to check these out.  I remember reading a few of them, but most of them are unfamiliar to me.  </p>
+<p>I think I found a wrong link:  when I clicked on &#8220;Poem Shaped Lies&#8221; it brought up &#8220;From the Ashes of Puppets&#8221;.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

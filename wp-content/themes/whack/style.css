@@ -1,0 +1,136 @@
+/*  
+Theme Name: House of Whack
+Theme URI: http://www.houseofwhack.net
+Description: Theme for House of Whack board game.
+Version: 1.0
+Author: Drey
+Author URI: http://www.dreampunk.com/
+
+*/
+body {margin:0; padding:0px; background-color:#000; font:12px Tahoma, Arial, Verdana; line-height:1.4em; color:#FFF; text-align:justify; background-position:center top; background-attachment:fixed; background-repeat:no-repeat;}
+
+h3 {font-size:12px;}
+
+a:link, a:visited {text-decoration:none; color:#FF9900; font-weight:bold;}
+
+a:hover {text-decoration:underline;}
+
+#container {width:760px; margin-left:auto; margin-right:auto; border:1px solid #999;}
+
+#howheader {width:760px; height:108px; background-image:url(images/HoWHeader.jpeg);}
+
+#doormenu {width:760px; height:161px; padding-top:12px; padding-bottom:46px; background-image:url(images/DoorMenu.jpeg);}
+
+.doornews {margin-left:75px; float:left;}
+
+.doornews a {display:block; width:91px; height:161px;}
+
+.doornews img {width:91px; height:161px; border:0px; }
+
+.doorabout {margin-left:40px; float:left;}
+
+.doorabout a {display:block; width:91px; height:161px;}
+
+.doorabout img {width:91px; height:161px; border:0px; }
+
+.doorforums {margin-left:43px; float:left;}
+
+.doorforums a {display:block; width:98px; height:161px;}
+
+.doorforums img {width:98px; height:161px; border:0px; }
+
+.doorhelp {margin-left:41px; float:left;}
+
+.doorhelp a {display:block; width:82px; height:161px;}
+
+.doorhelp img {width:82px; height:161px; border:0px; }
+
+.doorbuy {margin-left:42px; float:left;}
+
+.doorbuy a {display:block; width:81px; height:161px;}
+
+.doorbuy img {width:81px; height:161px; border:0px; }
+
+.doornews a:hover img, .doorabout a:hover img, .doorforums a:hover img, .doorhelp a:hover img, .doorbuy a:hover img  {visibility:hidden;}
+
+#content {width:560px; background-image:url(images/ContentBack.jpeg); background-repeat:repeat-y; padding:20px 100px;}
+
+#copyright {font-size: 9px; padding:10px; background-color:#000; text-align:center;}
+
+.contentbox, .post {padding:10px; margin:0px 0px 20px; clear:both; display:block;}
+
+.contentbox img {border:none;}
+
+.clearbox {clear:both; width:400px; height:1px;}
+
+.roomtiles {float:left; margin-right:10px; clear:left;}
+
+.greyline {border-top:2px solid #999; width:90%; margin:10px auto;}
+
+.secret {background-color:#330033; border:thin solid #FF9933; padding:10px; margin:0px 0px 10px;}
+
+h2.secret {font-size:14px; padding:10px; margin:0px 0px 10px;}
+
+.QA {font-size:larger; font-weight: bold; color: #FFFF00;}
+
+.contenttitle {font-size:18px; font-weight: bold; border:thin solid #FF9933; background-color: #330033; padding: 10px; margin:0px 0px 20px;}
+
+.flavor {font-style: italic;  background-color: #000; border: thin dotted #CCC; padding: 10px; margin-bottom:10px; text-align: justify;}
+
+.wyrd {background-color: #000; color:#fff; border:medium double #FC3; padding: 10px; margin-bottom:10px; text-align: justify;}
+
+.QAtable {display:block; margin: 0px 0px 5px; background-color: #006699; border: medium double #0099FF; padding: 10px;}
+
+.thumbimage {float:left; margin-right:10px;}
+
+.helpcontainer {margin:0px 10%;}
+
+.helpbox {display:block; background-color:#330033; border:thin solid #FF9933; padding:10px; margin:0px 0px 10px; }
+
+.flavor img {float:left; margin:0px 10px 10px 0px;}
+
+li {margin-left:10px;}
+
+
+
+.comments-template{
+background-color:#333; padding:10px; border:2px inset #999; margin:0px 0px 20px; clear:both;
+}
+
+.comments-template ol{
+	margin: 0;
+	padding: 0 0 15px;
+	list-style: none;
+}
+
+.comments-template ol li{
+	margin: 10px 0 0;
+	line-height: 18px;
+	padding: 0 0 10px;
+	border-bottom: 1px solid #ccc;
+}
+
+
+
+.commentmetadata{
+	font-size: 12px;
+}
+
+.comments-template p.nocomments{
+	padding: 0;
+}
+
+.comments-template textarea{
+	font-family: Arial, Helvetica, Georgia, Sans-serif;
+	font-size: 12px;
+}
+
+.alignright {
+	float:right;
+	padding:0 0 5px 5px;
+}
+
+.alignleft {
+	float:left;
+	margin:0 5px 5px 0;
+}

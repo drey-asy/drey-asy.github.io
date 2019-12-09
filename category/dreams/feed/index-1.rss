@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dreams &#8211; DreamPunk Productions</title>
+	<atom:link href="http://www.dreampunk.com/category/dreams/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.dreampunk.com</link>
+	<description>Game and story-shaped designs</description>
+	<lastBuildDate>Thu, 09 Mar 2017 20:51:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Whack dreams</title>
+		<link>http://www.dreampunk.com/2005/10/03/whack-dreams/</link>
+		<comments>http://www.dreampunk.com/2005/10/03/whack-dreams/#respond</comments>
+		<pubDate>Mon, 03 Oct 2005 20:07:00 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Dreams]]></category>
+		<category><![CDATA[House of Whack]]></category>
+
+		<guid isPermaLink="false">http://dreampunk.dreynet.com/2005/10/03/whack-dreams/</guid>
+		<description><![CDATA[The past two nights I have had dreams involving House of Whack, my board game. The night before last I had one of those transcendant dreams where I knew I was being given important information about the true nature of reality, but I could not hope to take it into waking life. I remember a [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The past two nights I have had dreams involving <a href="http://www.houseofwhack.net">House of Whack</a>, my board game.  The night before last I had one of those transcendant dreams where I knew I was being given important information about the true nature of reality, but I could not hope to take it into waking life.  I remember a crone or perhaps a hermit spreading the rooms out like a tarot reading.  I don&#8217;t think anyone really understands what happens inside my head when I think of the game.  They see a board game, but I see something else.</p>
+<p>Last night&#8217;s dream involved a Kinko&#8217;s or something.  The place was being robbed or I was being threatened somehow.  The assailant was holding me at gunpoint and asking me to explain the contents of the House of Whack box.  There was a story resting on top of the game components.  I took it out and pulled out some room cards so I could show this person how the rooms connected together.  I noticed that there were rooms I had not created for the game.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.dreampunk.com/2005/10/03/whack-dreams/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

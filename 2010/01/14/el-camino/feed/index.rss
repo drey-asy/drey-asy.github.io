@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: El Camino</title>
+	<atom:link href="http://www.andremonserrat.com/2010/01/14/el-camino/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2010/01/14/el-camino/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Echo</title>
+		<link>http://www.andremonserrat.com/2010/01/14/el-camino/#comment-579</link>
+		<dc:creator><![CDATA[Echo]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2010 21:24:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=1993#comment-579</guid>
+		<description><![CDATA[Add me. I don&#039;t know if I&#039;ll have time to mess with it much, but I&#039;m very curious.]]></description>
+		<content:encoded><![CDATA[<p>Add me. I don&#8217;t know if I&#8217;ll have time to mess with it much, but I&#8217;m very curious.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

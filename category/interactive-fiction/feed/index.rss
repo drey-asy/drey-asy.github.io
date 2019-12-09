@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Interactive Fiction &#8211; &#8211; DreyNet &#8211;</title>
+	<atom:link href="http://dreynet.com/category/interactive-fiction/feed/" rel="self" type="application/rss+xml" />
+	<link>http://dreynet.com</link>
+	<description>The nexus of all things Drey</description>
+	<lastBuildDate>Mon, 20 Aug 2012 13:59:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Latest Interactive Fiction: El Camino</title>
+		<link>http://dreynet.com/2010/01/14/latest-interactive-fiction-el-camino/</link>
+		<comments>http://dreynet.com/2010/01/14/latest-interactive-fiction-el-camino/#respond</comments>
+		<pubDate>Fri, 15 Jan 2010 00:16:31 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Interactive Fiction]]></category>
+
+		<guid isPermaLink="false">http://dreynet.com/?p=63</guid>
+		<description><![CDATA[The story concerns a man racing across the Arizona highway in an El Camino. He has stolen…something…and is being pursued by persons unknown. Of course, nothing in that description is what it seems. El Camino Transcript]]></description>
+				<content:encoded><![CDATA[<p>The story concerns a man racing across the Arizona highway in an El Camino. He has stolen…something…and is being pursued by persons unknown. Of course, nothing in that description is what it seems.</p>
+<p><a href="https://docs.google.com/document/d/1LThuhnQTAmKb1qjbLwoc0wkS588L87sHZeyTNX6nqTk/edit?hl=en_US&amp;authkey=CIa1yuwB" target="_blank">El Camino Transcript</a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://dreynet.com/2010/01/14/latest-interactive-fiction-el-camino/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Poetry Spam</title>
+	<atom:link href="http://www.andremonserrat.com/2006/07/17/poetry-spam/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2006/07/17/poetry-spam/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2006/07/17/poetry-spam/#comment-142</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2006 20:12:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2006/07/17/poetry-spam/#comment-142</guid>
+		<description><![CDATA[I&#039;m not sure what to make of it.  Something about time growing short.]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;m not sure what to make of it.  Something about time growing short.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Monica</title>
+		<link>http://www.andremonserrat.com/2006/07/17/poetry-spam/#comment-143</link>
+		<dc:creator><![CDATA[Monica]]></dc:creator>
+		<pubDate>Mon, 17 Jul 2006 20:09:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2006/07/17/poetry-spam/#comment-143</guid>
+		<description><![CDATA[http://tolkien.cro.net/talesong/doing.htmlTo fly would be folly, to stay would be jolly...Didn&#039;t you say you wanted to stay in Rivendale?  And what do you make of the message you are gettin?]]></description>
+		<content:encoded><![CDATA[<p><a href="http://tolkien.cro.net/talesong/doing.htmlTo" rel="nofollow">http://tolkien.cro.net/talesong/doing.htmlTo</a> fly would be folly, to stay would be jolly&#8230;Didn&#8217;t you say you wanted to stay in Rivendale?  And what do you make of the message you are gettin?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

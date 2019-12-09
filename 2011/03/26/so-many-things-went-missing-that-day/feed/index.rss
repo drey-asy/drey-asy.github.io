@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: So many things went missing that day</title>
+	<atom:link href="http://www.andremonserrat.com/2011/03/26/so-many-things-went-missing-that-day/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2011/03/26/so-many-things-went-missing-that-day/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2011/03/26/so-many-things-went-missing-that-day/#comment-662</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2011 14:40:51 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/?p=2411#comment-662</guid>
+		<description><![CDATA[I thought you told me he died in his 30s from diabetes.]]></description>
+		<content:encoded><![CDATA[<p>I thought you told me he died in his 30s from diabetes.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mom</title>
+		<link>http://www.andremonserrat.com/2011/03/26/so-many-things-went-missing-that-day/#comment-661</link>
+		<dc:creator><![CDATA[Mom]]></dc:creator>
+		<pubDate>Sun, 27 Mar 2011 03:25:44 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/?p=2411#comment-661</guid>
+		<description><![CDATA[March 26, 1962  My Dad went missing. 
+His life ended on the last day of his forty-eighth year.
+Where is the poster for him?]]></description>
+		<content:encoded><![CDATA[<p>March 26, 1962  My Dad went missing.<br />
+His life ended on the last day of his forty-eighth year.<br />
+Where is the poster for him?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

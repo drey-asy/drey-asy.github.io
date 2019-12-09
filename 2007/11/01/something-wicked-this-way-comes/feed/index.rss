@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Something Wicked This Way Comes</title>
+	<atom:link href="http://www.andremonserrat.com/2007/11/01/something-wicked-this-way-comes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2007/11/01/something-wicked-this-way-comes/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: E</title>
+		<link>http://www.andremonserrat.com/2007/11/01/something-wicked-this-way-comes/#comment-261</link>
+		<dc:creator><![CDATA[E]]></dc:creator>
+		<pubDate>Fri, 25 Apr 2008 20:01:33 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/01/something-wicked-this-way-comes/#comment-261</guid>
+		<description><![CDATA[I was at the Enchanted forest, too :P
+
+Wierd, eh?]]></description>
+		<content:encoded><![CDATA[<p>I was at the Enchanted forest, too 😛</p>
+<p>Wierd, eh?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

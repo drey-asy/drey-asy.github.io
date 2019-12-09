@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Activity Report &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/activity-report/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Cathulhu</title>
+		<link>http://www.andremonserrat.com/2008/01/05/cathulhu/</link>
+		<comments>http://www.andremonserrat.com/2008/01/05/cathulhu/#respond</comments>
+		<pubDate>Sat, 05 Jan 2008 06:45:39 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Artwork]]></category>
+		<category><![CDATA[Activity Report]]></category>
+		<category><![CDATA[art]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/05/cathulhu/</guid>
+		<description><![CDATA[Tonight I thought of the word &#8220;Cathulhu&#8221; and I was inspired to create this image. Click on it for a larger version.]]></description>
+				<content:encoded><![CDATA[<p>Tonight I thought of the word &#8220;Cathulhu&#8221; and I was inspired to create this image. Click on it for a larger version.</p>
+<p><a href="http://www.andremonserrat.com/files/2011/03/Cathulhu-Large.jpg" title="Cathulhu" target="_blank"><img src="http://www.andremonserrat.com/files/2011/03/Cathulhu-Small.jpg" /></a></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/05/cathulhu/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Open Source is Love</title>
+		<link>http://www.andremonserrat.com/2008/01/03/open-source-is-love/</link>
+		<comments>http://www.andremonserrat.com/2008/01/03/open-source-is-love/#respond</comments>
+		<pubDate>Fri, 04 Jan 2008 05:57:32 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[House of Whack]]></category>
+		<category><![CDATA[Activity Report]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/03/open-source-is-love/</guid>
+		<description><![CDATA[I&#8217;ve been learning how to create web sites using Joomla!, an open source content management system. This is primarily for work, but I can envision converting the DreamPunk site over to Joomla! at some point. Additionally, I have upgraded the House of Whack forums to the latest version of phpBB, an open source forum. What [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve been learning how to create web sites using Joomla!, an open source content management system. This is primarily for work, but I can envision converting the DreamPunk site over to Joomla! at some point.</p>
+<p>Additionally, I have upgraded the <a href="http://forum.houseofwhack.net/">House of Whack forums</a> to the latest version of phpBB, an open source forum.</p>
+<p>What I need to do next is learn how to make custom templates for both of these packages. Give it that personal touch.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/03/open-source-is-love/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Whack Magnets</title>
+		<link>http://www.andremonserrat.com/2008/01/02/whack-magnets/</link>
+		<comments>http://www.andremonserrat.com/2008/01/02/whack-magnets/#comments</comments>
+		<pubDate>Thu, 03 Jan 2008 00:30:39 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[House of Whack]]></category>
+		<category><![CDATA[Activity Report]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/02/whack-magnets/</guid>
+		<description><![CDATA[A few months ago I ordered some printable magnet material and today I used it to print out a set of rooms from House of Whack. Now I can play on the front of my refrigerator.]]></description>
+				<content:encoded><![CDATA[<p>A few months ago I ordered some printable magnet material and today I used it to print out a set of rooms from <a href="http://www.houseofwhack.net">House of Whack</a>. Now I can play on the front of my refrigerator.</p>
+<p><img src="http://www.andremonserrat.com/files/2011/03/HowFridge.jpg" alt="" /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/02/whack-magnets/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Photo Submission</title>
+		<link>http://www.andremonserrat.com/2008/01/01/photo-submission/</link>
+		<comments>http://www.andremonserrat.com/2008/01/01/photo-submission/#respond</comments>
+		<pubDate>Wed, 02 Jan 2008 02:03:55 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Artwork]]></category>
+		<category><![CDATA[Activity Report]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/01/photo-submission/</guid>
+		<description><![CDATA[I am accepting photos for a future creative Activity. Please send a photo. I will do something interesting with it and post it here.]]></description>
+				<content:encoded><![CDATA[<p>I am accepting photos for a future creative Activity. Please send a photo. I will do something interesting with it and post it here.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/01/photo-submission/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Free Books</title>
+		<link>http://www.andremonserrat.com/2008/01/01/free-books/</link>
+		<comments>http://www.andremonserrat.com/2008/01/01/free-books/#respond</comments>
+		<pubDate>Wed, 02 Jan 2008 02:00:40 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Books]]></category>
+		<category><![CDATA[Activity Report]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/01/free-books/</guid>
+		<description><![CDATA[For today&#8217;s activity, I established a small collection of books to give away/push off on friends who visit. These include some science fiction novels, graphic design books, graphic novels, books on writing and etcetera, etcetera. So, if you come over, please peruse the books and take something.]]></description>
+				<content:encoded><![CDATA[<p>For today&#8217;s activity, I established a small collection of books to give away/push off on friends who visit. These include some science fiction novels, graphic design books, graphic novels, books on writing and etcetera, etcetera.</p>
+<p>So, if you come over, please peruse the books and take something.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/01/free-books/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

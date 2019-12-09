@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>books &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/books/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>The Dark Tower</title>
+		<link>http://www.andremonserrat.com/2007/10/08/the-dark-tower/</link>
+		<comments>http://www.andremonserrat.com/2007/10/08/the-dark-tower/#respond</comments>
+		<pubDate>Tue, 09 Oct 2007 01:55:43 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+		<category><![CDATA[books]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/10/08/the-dark-tower/</guid>
+		<description><![CDATA[Somehow, no matter how long I read, the last centimeter or so of pages left in the book did not diminish. I guess I didn&#8217;t want it to end. I&#8217;ve been reading this story over the course of, what, ten years now? I stopped just before the end. Between the epilogue and the coda was [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Somehow, no matter how long I read, the last centimeter or so of pages left in the book did not diminish. I guess I didn&#8217;t want it to end. I&#8217;ve been reading this story over the course of, what, ten years now?</p>
+<p>I stopped just before the end. Between the epilogue and the coda was a warning from Stephen King saying that the story was over, but, for those who needed it, he had written an ending. I suddenly realized the distinction he was making and that he was speaking to me directly. So I closed the book and placed it on my shelf.</p>
+<p>When Stephen King dies I will read the coda, making that day a little more or less sad.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/10/08/the-dark-tower/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

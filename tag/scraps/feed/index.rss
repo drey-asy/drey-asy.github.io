@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>scraps &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/scraps/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Shuddering beside you</title>
+		<link>http://www.andremonserrat.com/2008/05/04/shuddering-beside-you/</link>
+		<comments>http://www.andremonserrat.com/2008/05/04/shuddering-beside-you/#respond</comments>
+		<pubDate>Sun, 04 May 2008 23:57:02 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Writing]]></category>
+		<category><![CDATA[scraps]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=675</guid>
+		<description><![CDATA[With the advent of cheap, ubiquitous public teleportation, casual inebriation has reached an all time high. When there&#8217;s a perfectly preserved saved state of yourself waiting back at the home terminal, there is no such thing as heroin addiction. In the clubs, amputation is already yawn-inducing performance art. Only your grandmother knows anyone who has [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>With the advent of cheap, ubiquitous public teleportation, casual inebriation has reached an all time high. When there&#8217;s a perfectly preserved saved state of yourself waiting back at the home terminal, there is no such thing as heroin addiction. In the clubs, amputation is already yawn-inducing performance art. Only your grandmother knows anyone who has seen an abortion clinic, let alone visited one. Tokyo is only as far away as Starbucks.</p>
+<p>But you still arrive two hours late to all of my parties.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/05/04/shuddering-beside-you/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

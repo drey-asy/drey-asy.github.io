@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Jodi</title>
+	<atom:link href="http://www.andremonserrat.com/1988/06/02/jodi/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/1988/06/02/jodi/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Jenny</title>
+		<link>http://www.andremonserrat.com/1988/06/02/jodi/#comment-13</link>
+		<dc:creator><![CDATA[Jenny]]></dc:creator>
+		<pubDate>Mon, 10 Mar 2008 14:39:51 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/1988/06/02/jodi/#comment-13</guid>
+		<description><![CDATA[I think this is the year I was in Britten&#039;s Chemistry class, which means it would be the year you were in britten&#039;s Chemistry class. They should have reconsidered letting you play with fire and volatile chemicals. Same could be said for me, too, I suppose.]]></description>
+		<content:encoded><![CDATA[<p>I think this is the year I was in Britten&#8217;s Chemistry class, which means it would be the year you were in britten&#8217;s Chemistry class. They should have reconsidered letting you play with fire and volatile chemicals. Same could be said for me, too, I suppose.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>recipe &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/recipe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Poor Man&#8217;s Shepherd&#8217;s Pie</title>
+		<link>http://www.andremonserrat.com/2008/06/10/poor-mans-shepherds-pie/</link>
+		<comments>http://www.andremonserrat.com/2008/06/10/poor-mans-shepherds-pie/#comments</comments>
+		<pubDate>Tue, 10 Jun 2008 20:21:48 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Food]]></category>
+		<category><![CDATA[recipe]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=707</guid>
+		<description><![CDATA[Okay, this is technically not shepherd&#8217;s pie as it uses chicken instead of beef or lamb. But still. Here&#8217;s what you need: 1 can of Amy&#8217;s Organic Southwestern Vegetable Soup 1 pre-cooked rotisserie chicken 1 package of pre-made mashed potatoes 1. Cut up some of the chicken and mix it into the soup. 2. Heat [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Okay, this is technically not shepherd&#8217;s pie as it uses chicken instead of beef or lamb. But still.</p>
+<p>Here&#8217;s what you need:<br />
+1 can of Amy&#8217;s Organic Southwestern Vegetable Soup<br />
+1 pre-cooked rotisserie chicken<br />
+1 package of pre-made mashed potatoes</p>
+<p>1. Cut up some of the chicken and mix it into the soup.<br />
+2. Heat up the soup.<br />
+3. Heat up enough mashed potatoes to cover the surface area of your soup bowl.<br />
+4. Dollop the potatoes over the soup.<br />
+5. Enjoy!<br />
+6. Thank Drey for inventing such a quick and delicious meal.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/06/10/poor-mans-shepherds-pie/feed/</wfw:commentRss>
+		<slash:comments>6</slash:comments>
+		</item>
+	</channel>
+</rss>

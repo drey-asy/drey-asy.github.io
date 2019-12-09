@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: FriendFeed</title>
+	<atom:link href="http://www.andremonserrat.com/2007/11/11/friendfeed/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2007/11/11/friendfeed/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Echo</title>
+		<link>http://www.andremonserrat.com/2007/11/11/friendfeed/#comment-269</link>
+		<dc:creator><![CDATA[Echo]]></dc:creator>
+		<pubDate>Tue, 20 Nov 2007 17:15:20 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/11/friendfeed/#comment-269</guid>
+		<description><![CDATA[Woot.  Got your comment.
+
+Yeah, I went out to the page and read around, and I got a better idea of what it&#039;s about.  In LJ-speak, it&#039;s like reading other people&#039;s friend lists: the amalgam feed of all the LJs THEY read.  That&#039;s kind of cool.  I do browse LJ profiles of friends and blog link lists for interesting-sounding communities sometimes.  But I&#039;m a highly social blogger, rather than a political blogger or a weirdness blogger or whatnot.  The most interesting communities I actually read are about crochet, which I&#039;m quite sure would put you to sleep.]]></description>
+		<content:encoded><![CDATA[<p>Woot.  Got your comment.</p>
+<p>Yeah, I went out to the page and read around, and I got a better idea of what it&#8217;s about.  In LJ-speak, it&#8217;s like reading other people&#8217;s friend lists: the amalgam feed of all the LJs THEY read.  That&#8217;s kind of cool.  I do browse LJ profiles of friends and blog link lists for interesting-sounding communities sometimes.  But I&#8217;m a highly social blogger, rather than a political blogger or a weirdness blogger or whatnot.  The most interesting communities I actually read are about crochet, which I&#8217;m quite sure would put you to sleep.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2007/11/11/friendfeed/#comment-268</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Sun, 18 Nov 2007 22:51:44 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/11/friendfeed/#comment-268</guid>
+		<description><![CDATA[No, I can add any RSS feed, so you wouldn&#039;t have to do anything. I knew you had a LJ, but I didn&#039;t know what it was called.]]></description>
+		<content:encoded><![CDATA[<p>No, I can add any RSS feed, so you wouldn&#8217;t have to do anything. I knew you had a LJ, but I didn&#8217;t know what it was called.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Echo</title>
+		<link>http://www.andremonserrat.com/2007/11/11/friendfeed/#comment-267</link>
+		<dc:creator><![CDATA[Echo]]></dc:creator>
+		<pubDate>Thu, 15 Nov 2007 22:11:25 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/11/friendfeed/#comment-267</guid>
+		<description><![CDATA[I&#039;m unclear. I have a LiveJournal blog.  (You knew that, didn&#039;t you?  If not, mea culpa.  http://echoweaver.livejournal.com)  If you wanted to include that in the amalgam feed, would *I* need to sign up?]]></description>
+		<content:encoded><![CDATA[<p>I&#8217;m unclear. I have a LiveJournal blog.  (You knew that, didn&#8217;t you?  If not, mea culpa.  <a href="http://echoweaver.livejournal.com" rel="nofollow">http://echoweaver.livejournal.com</a>)  If you wanted to include that in the amalgam feed, would *I* need to sign up?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

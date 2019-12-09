@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Admin &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>RSS Feed Readers</title>
+		<link>http://www.andremonserrat.com/2008/06/10/rss-feed-readers/</link>
+		<comments>http://www.andremonserrat.com/2008/06/10/rss-feed-readers/#comments</comments>
+		<pubDate>Tue, 10 Jun 2008 12:46:45 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=706</guid>
+		<description><![CDATA[It looks like the default RSS feed from my site does not include images. So if you read this via a feed reader, you won&#8217;t be able to see the Dream Job webcomic (or any other images or photos). I&#8217;ll see if there is some kind of plugin I can use to remedy that.]]></description>
+				<content:encoded><![CDATA[<p>It looks like the default RSS feed from my site does not include images. So if you read this via a feed reader, you won&#8217;t be able to see the Dream Job webcomic (or any other images or photos). I&#8217;ll see if there is some kind of plugin I can use to remedy that.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/06/10/rss-feed-readers/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Psst&#8230;Archives Back Online</title>
+		<link>http://www.andremonserrat.com/2008/01/16/psstarchives-back-online/</link>
+		<comments>http://www.andremonserrat.com/2008/01/16/psstarchives-back-online/#respond</comments>
+		<pubDate>Wed, 16 Jan 2008 06:49:16 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/16/psstarchives-back-online/</guid>
+		<description><![CDATA[They are in the footer.]]></description>
+				<content:encoded><![CDATA[<p>They are in the footer.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/16/psstarchives-back-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>New Year, New Look</title>
+		<link>http://www.andremonserrat.com/2008/01/08/new-year-new-look/</link>
+		<comments>http://www.andremonserrat.com/2008/01/08/new-year-new-look/#comments</comments>
+		<pubDate>Tue, 08 Jan 2008 23:32:28 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2008/01/08/new-year-new-look/</guid>
+		<description><![CDATA[As you can see, I&#8217;ve changed the look of the site with this nifty foliage theme created by 5thirtyone.com. I still need to find a good place to put the archives and perhaps an index of all the tags.]]></description>
+				<content:encoded><![CDATA[<p>As you can see, I&#8217;ve changed the look of the site with this nifty foliage theme created by <a href="http://5thirtyone.com/wordpress-foliage-mod-theme">5thirtyone.com</a>. I still need to find a good place to put the archives and perhaps an index of all the tags.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2008/01/08/new-year-new-look/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>October Retroblog</title>
+		<link>http://www.andremonserrat.com/2007/11/11/october-retroblog/</link>
+		<comments>http://www.andremonserrat.com/2007/11/11/october-retroblog/#comments</comments>
+		<pubDate>Mon, 12 Nov 2007 03:04:01 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/11/october-retroblog/</guid>
+		<description><![CDATA[I&#8217;m on a roll tonight! I think October is all up to date now. Plus I added a few things to early November. 22 new posts tonight, total. Daaayumm!]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;m on a roll tonight! I think <a href="http://www.andremonserrat.com/2007/10/">October</a> is all up to date now.</p>
+<p>Plus I added a few things to early November.</p>
+<p>22 new posts tonight, total. Daaayumm!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/11/11/october-retroblog/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>September Retroblog up</title>
+		<link>http://www.andremonserrat.com/2007/11/11/september-retroblog-up/</link>
+		<comments>http://www.andremonserrat.com/2007/11/11/september-retroblog-up/#respond</comments>
+		<pubDate>Mon, 12 Nov 2007 01:17:09 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/11/11/september-retroblog-up/</guid>
+		<description><![CDATA[To make up for my lack of recent posts, I went back and retroblogged September, filling in some of the gaps about things that happened then. So go check out the September archives and maybe you&#8217;ll see something new!]]></description>
+				<content:encoded><![CDATA[<p>To make up for my lack of recent posts, I went back and retroblogged September, filling in some of the gaps about things that happened then. So go check out the <a href="http://www.andremonserrat.com/2007/09/">September archives</a> and maybe you&#8217;ll see something new!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/11/11/september-retroblog-up/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>So&#8230;</title>
+		<link>http://www.andremonserrat.com/2007/07/12/so/</link>
+		<comments>http://www.andremonserrat.com/2007/07/12/so/#comments</comments>
+		<pubDate>Thu, 12 Jul 2007 23:50:16 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Life]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/07/12/so/</guid>
+		<description><![CDATA[Okay, so the blog is back up. I have an idea about what I want to do with this space, but I won&#8217;t be able to explore it for a while. I cannot promise any sort of regular updates. You know how I roll by now.]]></description>
+				<content:encoded><![CDATA[<p>Okay, so the blog is back up. I have an idea about what I want to do with this space, but I won&#8217;t be able to explore it for a while. I cannot promise any sort of regular updates. You know how I roll by now.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/07/12/so/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+		</item>
+		<item>
+		<title>Testing</title>
+		<link>http://www.andremonserrat.com/2007/07/11/testing/</link>
+		<comments>http://www.andremonserrat.com/2007/07/11/testing/#respond</comments>
+		<pubDate>Thu, 12 Jul 2007 03:14:20 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/07/11/testing/</guid>
+		<description><![CDATA[Hello World.]]></description>
+				<content:encoded><![CDATA[<p>Hello World.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/07/11/testing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Transition Complete</title>
+		<link>http://www.andremonserrat.com/2007/01/11/transition-complete/</link>
+		<comments>http://www.andremonserrat.com/2007/01/11/transition-complete/#respond</comments>
+		<pubDate>Fri, 12 Jan 2007 04:12:29 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/01/11/transition-complete/</guid>
+		<description><![CDATA[I&#8217;ve moved all the posts and comments from Blogger over to this new WordPress blog. I lost a lot of the images, though. As I come across them, I will try to replace them.]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve moved all the posts and comments from Blogger over to this new WordPress blog. I lost a lot of the images, though. As I come across them, I will try to replace them.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/01/11/transition-complete/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Gestalt</title>
+		<link>http://www.andremonserrat.com/2007/01/02/gestalt/</link>
+		<comments>http://www.andremonserrat.com/2007/01/02/gestalt/#respond</comments>
+		<pubDate>Tue, 02 Jan 2007 23:26:26 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Reft]]></category>
+		<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+		<category><![CDATA[reft]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/01/02/gestalt/</guid>
+		<description><![CDATA[Maybe if I put it all in one place, it will start to come together and mean something. I guess I&#8217;m now &#8220;retro blogging.&#8221; Remember: you heard that term here first!]]></description>
+				<content:encoded><![CDATA[<p>Maybe if I put it all in one place, it will start to come together and mean something.</p>
+<p>I guess I&#8217;m now &#8220;retro blogging.&#8221; Remember: you heard that term here first!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2007/01/02/gestalt/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>RSS Feed now fixed</title>
+		<link>http://www.andremonserrat.com/2006/10/31/rss-feed-now-fixed/</link>
+		<comments>http://www.andremonserrat.com/2006/10/31/rss-feed-now-fixed/#respond</comments>
+		<pubDate>Tue, 31 Oct 2006 13:01:00 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[WordPress]]></category>
+		<category><![CDATA[Admin]]></category>
+
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2006/10/31/rss-feed-now-fixed/</guid>
+		<description><![CDATA[The site feed was not updating properly, but that is fixed now.]]></description>
+				<content:encoded><![CDATA[<p>The site feed was not updating properly, but that is fixed now.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2006/10/31/rss-feed-now-fixed/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

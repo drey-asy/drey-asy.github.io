@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Gotta get some learnin&#8217;</title>
+	<atom:link href="http://www.andremonserrat.com/1976/09/02/gotta-get-some-learnin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/1976/09/02/gotta-get-some-learnin/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Jenny</title>
+		<link>http://www.andremonserrat.com/1976/09/02/gotta-get-some-learnin/#comment-6</link>
+		<dc:creator><![CDATA[Jenny]]></dc:creator>
+		<pubDate>Sat, 08 Mar 2008 17:47:56 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/1976/09/02/gotta-get-some-learnin/#comment-6</guid>
+		<description><![CDATA[I remember nothing about preschool, except being forced to eat fish sticks and being told how to eat cereal correctly.]]></description>
+		<content:encoded><![CDATA[<p>I remember nothing about preschool, except being forced to eat fish sticks and being told how to eat cereal correctly.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

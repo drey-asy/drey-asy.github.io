@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Whack dreams</title>
+	<atom:link href="http://www.andremonserrat.com/2005/10/03/whack-dreams/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2005/10/03/whack-dreams/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Mom</title>
+		<link>http://www.andremonserrat.com/2005/10/03/whack-dreams/#comment-79</link>
+		<dc:creator><![CDATA[Mom]]></dc:creator>
+		<pubDate>Fri, 07 Oct 2005 02:28:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2005/10/03/whack-dreams/#comment-79</guid>
+		<description><![CDATA[Didn&#039;t I ever tell you not to eat after 6 p.m?However, your dreams are so interesting I guess you should keep feeding them.]]></description>
+		<content:encoded><![CDATA[<p>Didn&#8217;t I ever tell you not to eat after 6 p.m?However, your dreams are so interesting I guess you should keep feeding them.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Work &#8211; DreamPunk Productions</title>
+	<atom:link href="http://www.dreampunk.com/category/work/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.dreampunk.com</link>
+	<description>Game and story-shaped designs</description>
+	<lastBuildDate>Thu, 09 Mar 2017 20:51:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>On Secrets</title>
+		<link>http://www.dreampunk.com/2011/01/22/on-secrets/</link>
+		<comments>http://www.dreampunk.com/2011/01/22/on-secrets/#respond</comments>
+		<pubDate>Sun, 23 Jan 2011 01:35:29 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Artwork]]></category>
+		<category><![CDATA[The Stork]]></category>
+		<category><![CDATA[Work]]></category>
+
+		<guid isPermaLink="false">http://dreampunk.dreynet.com/2011/01/22/on-secrets/</guid>
+		<description><![CDATA[I was hoping I would be able to share something about a recent project, but it is still under wraps. Stay tuned! I&#8217;m pretty good at keeping secrets. You ask me not to tell, I essentially partition that information away in a special vault in my memory. Eventually even I will be surprised by the [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>I was hoping I would be able to share something about a recent project, but it is still under wraps. Stay tuned!</p>
+<p>I&#8217;m pretty good at keeping secrets. You ask me not to tell, I essentially partition that information away in a special vault in my memory. Eventually even I will be surprised by the news.</p>
+<p>It&#8217;s tricky when I am working on something cool, but I&#8217;m forbidden to show anyone. I recently had to sign an NDA at work. Now I belong to a secret society who know about *It*.</p>
+<p>In other news, I have secured three video testimonials about The Stork. I want to get one more and then cut together a promo video so I can launch the Kickstarter project. I&#8217;d like to get that going by the end of the month.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.dreampunk.com/2011/01/22/on-secrets/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

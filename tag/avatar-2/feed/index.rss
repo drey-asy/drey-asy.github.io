@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>avatar &#8211; DreamPunk Productions</title>
+	<atom:link href="http://www.dreampunk.com/tag/avatar-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.dreampunk.com</link>
+	<description>Game and story-shaped designs</description>
+	<lastBuildDate>Thu, 09 Mar 2017 20:51:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Across the Universe</title>
+		<link>http://www.dreampunk.com/2008/06/23/across-the-universe/</link>
+		<comments>http://www.dreampunk.com/2008/06/23/across-the-universe/#respond</comments>
+		<pubDate>Mon, 23 Jun 2008 05:01:18 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Artwork]]></category>
+		<category><![CDATA[Avatar]]></category>
+		<category><![CDATA[Comics]]></category>
+		<category><![CDATA[avatar]]></category>
+		<category><![CDATA[Dream Job]]></category>
+		<category><![CDATA[webcomics]]></category>
+
+		<guid isPermaLink="false">http://dreampunk.dreynet.com/2008/06/23/across-the-universe/</guid>
+		<description><![CDATA[&#160;]]></description>
+				<content:encoded><![CDATA[<p><a href="http://www.andremonserrat.com/files/2008/06/dj3-across-the-universe.jpg"><img class="aligncenter" title="Dream Job 3 - Across the Universe" src="http://www.andremonserrat.com/files/2008/06/dj3-across-the-universe.jpg" alt="Dream Job 3 - Across the Universe" width="600" height="743" /></a></p>
+<p style="text-align: center;">&nbsp;</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.dreampunk.com/2008/06/23/across-the-universe/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

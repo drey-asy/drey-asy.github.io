@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Back from the Dead</title>
+	<atom:link href="http://www.andremonserrat.com/2010/02/28/back-from-the-dead/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2010/02/28/back-from-the-dead/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2010/02/28/back-from-the-dead/#comment-613</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2010 14:13:02 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2113#comment-613</guid>
+		<description><![CDATA[It seems like too much of a coincidence that the computer would have the same problem with both the original UPS and the replacement UPS. Someone suggested that there might be an issue with the power supply.]]></description>
+		<content:encoded><![CDATA[<p>It seems like too much of a coincidence that the computer would have the same problem with both the original UPS and the replacement UPS. Someone suggested that there might be an issue with the power supply.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Echo</title>
+		<link>http://www.andremonserrat.com/2010/02/28/back-from-the-dead/#comment-612</link>
+		<dc:creator><![CDATA[Echo]]></dc:creator>
+		<pubDate>Mon, 01 Mar 2010 03:39:10 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2113#comment-612</guid>
+		<description><![CDATA[Err. That makes it sound like there might be something weird with your UPS.]]></description>
+		<content:encoded><![CDATA[<p>Err. That makes it sound like there might be something weird with your UPS.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

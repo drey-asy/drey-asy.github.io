@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lost &#8211; First Time Flowing</title>
+	<atom:link href="http://www.andremonserrat.com/tag/lost/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Sat, 01 Oct 2016 00:04:14 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>Smoke Monster</title>
+		<link>http://www.andremonserrat.com/2010/02/02/smoke-monster/</link>
+		<comments>http://www.andremonserrat.com/2010/02/02/smoke-monster/#respond</comments>
+		<pubDate>Wed, 03 Feb 2010 05:31:02 +0000</pubDate>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+				<category><![CDATA[Television]]></category>
+		<category><![CDATA[Lost]]></category>
+
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2052</guid>
+		<description><![CDATA[Current theory: the smoke monster/Esau is an alien stranded on earth either literally (he hails from beyond the stars), temporally (he comes from the future) or dimensionally (he is a secret man was not meant to know). When he says, &#8220;I want to go home,&#8221; he&#8217;s not talking about Hoboken. Oh, and Sayid for Juliet [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Current theory: the smoke monster/Esau is an alien stranded on earth either literally (he hails from beyond the stars), temporally (he comes from the future) or dimensionally (he is a secret man was not meant to know). When he says, &#8220;I want to go home,&#8221; he&#8217;s not talking about Hoboken.</p>
+<p>Oh, and Sayid for Juliet is not a fair trade.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.andremonserrat.com/2010/02/02/smoke-monster/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

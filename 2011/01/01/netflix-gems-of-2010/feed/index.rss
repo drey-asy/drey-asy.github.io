@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Netflix Gems of 2010</title>
+	<atom:link href="http://www.andremonserrat.com/2011/01/01/netflix-gems-of-2010/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2011/01/01/netflix-gems-of-2010/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2011/01/01/netflix-gems-of-2010/#comment-633</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2011 13:30:32 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2197#comment-633</guid>
+		<description><![CDATA[Sometimes I really want a TiMER and sometimes I&#039;m glad I don&#039;t know.]]></description>
+		<content:encoded><![CDATA[<p>Sometimes I really want a TiMER and sometimes I&#8217;m glad I don&#8217;t know.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Kelly</title>
+		<link>http://www.andremonserrat.com/2011/01/01/netflix-gems-of-2010/#comment-632</link>
+		<dc:creator><![CDATA[Kelly]]></dc:creator>
+		<pubDate>Wed, 05 Jan 2011 05:15:06 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=2197#comment-632</guid>
+		<description><![CDATA[I loved TiMER...wish it were that simple sometimes.  And I really loved Cashback...also a beautiful soundtrack.]]></description>
+		<content:encoded><![CDATA[<p>I loved TiMER&#8230;wish it were that simple sometimes.  And I really loved Cashback&#8230;also a beautiful soundtrack.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

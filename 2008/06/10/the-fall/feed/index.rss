@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: The Fall</title>
+	<atom:link href="http://www.andremonserrat.com/2008/06/10/the-fall/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2008/06/10/the-fall/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Monica</title>
+		<link>http://www.andremonserrat.com/2008/06/10/the-fall/#comment-413</link>
+		<dc:creator><![CDATA[Monica]]></dc:creator>
+		<pubDate>Wed, 11 Jun 2008 16:19:03 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=709#comment-413</guid>
+		<description><![CDATA[I adored Pushing Daisies.  It was the only show I watched besides The Sarah Connor Chronicles.  The sense of humor was fabulous and dark and the visuals are really nifty.
+
+I highly recommend it!]]></description>
+		<content:encoded><![CDATA[<p>I adored Pushing Daisies.  It was the only show I watched besides The Sarah Connor Chronicles.  The sense of humor was fabulous and dark and the visuals are really nifty.</p>
+<p>I highly recommend it!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

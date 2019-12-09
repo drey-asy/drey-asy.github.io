@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Wanted</title>
+	<atom:link href="http://www.andremonserrat.com/2008/07/07/wanted/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2008/07/07/wanted/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: riley ray</title>
+		<link>http://www.andremonserrat.com/2008/07/07/wanted/#comment-432</link>
+		<dc:creator><![CDATA[riley ray]]></dc:creator>
+		<pubDate>Thu, 07 Aug 2008 04:43:23 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=725#comment-432</guid>
+		<description><![CDATA[Read the graphic novel. It&#039;s the movie with a MUCH better overall rationale behind it.]]></description>
+		<content:encoded><![CDATA[<p>Read the graphic novel. It&#8217;s the movie with a MUCH better overall rationale behind it.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: jenny</title>
+		<link>http://www.andremonserrat.com/2008/07/07/wanted/#comment-431</link>
+		<dc:creator><![CDATA[jenny]]></dc:creator>
+		<pubDate>Tue, 08 Jul 2008 04:33:30 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/?p=725#comment-431</guid>
+		<description><![CDATA[i think you may now be my movie-picking guru.]]></description>
+		<content:encoded><![CDATA[<p>i think you may now be my movie-picking guru.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

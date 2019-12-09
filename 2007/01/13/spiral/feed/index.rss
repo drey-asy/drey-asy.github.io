@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Spiral</title>
+	<atom:link href="http://www.andremonserrat.com/2007/01/13/spiral/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2007/01/13/spiral/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Susan</title>
+		<link>http://www.andremonserrat.com/2007/01/13/spiral/#comment-179</link>
+		<dc:creator><![CDATA[Susan]]></dc:creator>
+		<pubDate>Sat, 27 Jan 2007 04:56:19 +0000</pubDate>
+		<guid isPermaLink="false">http://www.andremonserrat.com/2007/01/13/spiral/#comment-179</guid>
+		<description><![CDATA[Also, your friends totally wreck the mood by poking fun at everything.  But, hey, it&#039;s fun in its own way.  I would like to see what you saw the first time someday.]]></description>
+		<content:encoded><![CDATA[<p>Also, your friends totally wreck the mood by poking fun at everything.  But, hey, it&#8217;s fun in its own way.  I would like to see what you saw the first time someday.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

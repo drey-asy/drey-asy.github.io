@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: This is a Good Start</title>
+	<atom:link href="http://www.andremonserrat.com/2005/04/06/this-is-a-good-start/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.andremonserrat.com/2005/04/06/this-is-a-good-start/</link>
+	<description>Scattered pages from an apocryphal diary</description>
+	<lastBuildDate>Thu, 29 Oct 2015 12:42:24 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.9</generator>
+	<item>
+		<title>By: Drey</title>
+		<link>http://www.andremonserrat.com/2005/04/06/this-is-a-good-start/#comment-37</link>
+		<dc:creator><![CDATA[Drey]]></dc:creator>
+		<pubDate>Fri, 08 Apr 2005 16:10:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2005/04/06/this-is-a-good-start/#comment-37</guid>
+		<description><![CDATA[Ah, it&#039;s version 1.0.  Give &#039;em a year and that thing&#039;ll be leaping over convenience stores like a cybernetic gazelle.]]></description>
+		<content:encoded><![CDATA[<p>Ah, it&#8217;s version 1.0.  Give &#8217;em a year and that thing&#8217;ll be leaping over convenience stores like a cybernetic gazelle.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Ryan Houlette</title>
+		<link>http://www.andremonserrat.com/2005/04/06/this-is-a-good-start/#comment-38</link>
+		<dc:creator><![CDATA[Ryan Houlette]]></dc:creator>
+		<pubDate>Fri, 08 Apr 2005 14:53:00 +0000</pubDate>
+		<guid isPermaLink="false">http://andremonserrat.dreynet.com/2005/04/06/this-is-a-good-start/#comment-38</guid>
+		<description><![CDATA[I dunno, it looks a little wobbly to me....]]></description>
+		<content:encoded><![CDATA[<p>I dunno, it looks a little wobbly to me&#8230;.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>
